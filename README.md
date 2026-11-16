@@ -8,6 +8,7 @@ I'm making this Readme to track my Rocket Designing Journey, This is my first at
 
 ## Flight Performance
 
+| Metric | Value |
 | :--- | :--- |
 | **Max Velocity** | 56 m/s |
 | **Max Acceleration** | 82.4 m/s² |
