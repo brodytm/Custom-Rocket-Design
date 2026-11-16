@@ -8,7 +8,8 @@ I'm making this Readme to track my Rocket Designing Journey, This is my first at
 
 ## Flight Performance
 
-|**Max Velocity**: 56 m/s |
-|**Max Acceleration**: 82.4 m/s²|
-|**Time-To-Apogee**: 5.66s|
-|**Flight Time**: 24.9s|
+| :--- | :--- |
+| **Max Velocity** | 56 m/s |
+| **Max Acceleration** | 82.4 m/s² |
+| **Time to Apogee** | 5.66 s |
+| **Flight Time** | 24.9 s |
